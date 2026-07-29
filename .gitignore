@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# DEVELOPMENT.md (panduan internal AI, jangan di-push)
+DEVELOPMENT.md
+
+# Laporan (docs/report)
+docs/report/
+docs/reports/
+
+# Backup model
+ai/models/backup/
