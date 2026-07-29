@@ -13,7 +13,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = 'https://astronomy-thesaurus-lavender.ngrok-free.dev/api';
 
 // Review Card component — extracted for reusability
 function ReviewCard({ review }) {
