@@ -13,7 +13,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-const API_BASE = 'https://trails-departure-accessory-color.trycloudflare.com/api';
+const API_BASE = 'https://thumbzilla-vision-conservative-infant.trycloudflare.com/api';
 
 // Review Card component — extracted for reusability
 function ReviewCard({ review }) {
